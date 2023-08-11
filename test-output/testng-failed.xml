@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [qaEnvironment]" guice-stage="DEVELOPMENT">
+  <test name="ChromeTest(failed)">
+    <classes>
+      <class name="com.testExecution.TS001">
+        <methods>
+          <include name="searchAProduct"/>
+        </methods>
+      </class> <!-- com.testExecution.TS001 -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [qaEnvironment] -->
